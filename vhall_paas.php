@@ -1,7 +1,7 @@
 <?php
 
 /**
- * vhall API 快速接口函数封装
+ * vhall API 快速接入函数封装
  * Class VhallPaas
  */
 class VhallPaas
